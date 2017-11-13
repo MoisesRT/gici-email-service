@@ -1,0 +1,8 @@
+Hi {{ first_name }},
+
+System found you as best expert to answer this question:
+{{ question }}
+
+If you know the answer, please reply to this email.
+
+This email was sent to {{ email_address }}
