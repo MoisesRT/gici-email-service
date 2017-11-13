@@ -1,0 +1,3 @@
+Email ID|Email Type|Recipient Type|Recipient ID|Sender Email Address|Subject template|Body template|Data
+1|post|direct|1|post123@senexx.com|post_subject.template|post_body.template|{"question": "What is the best NLP library?"}
+2|digest|group_mail|2|dont_reply@senexx.com|digest_subject.template|digest_body.template|{"content":[{"question":"What is the best NLP library?"},{"question":"What is better Python or Java?"}]}
